@@ -8,3 +8,7 @@ Show conda environments:
 Create new conda virtual env:  
 **conda create -n {name} python=3.7**
 
+
+Switch to conda virtual environment:  
+**conda activate {name}**
+
